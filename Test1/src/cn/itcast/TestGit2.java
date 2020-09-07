@@ -6,5 +6,6 @@ public class TestGit {
         System.out.println("aaaa");
         System.out.println("aaaa");
         System.out.println("new new ");
+        System.out.println("new2 new2 ");
     }
 }
